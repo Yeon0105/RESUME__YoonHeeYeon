@@ -21,15 +21,20 @@
 </br>
 
 > ## 📌 Projects 📌
-### 1. [첫 번째 프로젝트](https://github.com/Yeon0105/HanBang_Capstone_Design)
->한방 (팀 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Yeon0105) 참고
+### 1. [HanBang 한방](https://github.com/Yeon0105/HanBang_Capstone_Design)  
+- 학교 주변 집을 구하는 자취생들을 위한 학교 주변 한정 집 구하기 어플리케이션
+  - 매물 등록, 리뷰 등록 
+  - 매물 조회, 리뷰 조회
+  - 로그인, 회원가입
+- 기술 스택: 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MySQL-FF9A00?style=flat-square&logo=MySQL&logoColor=white"/></a>
+
+
+- [프로젝트 상세 설명](https://github.com/Yeon0105/HanBang_Capstone_Design) 참고
 
 ---
 

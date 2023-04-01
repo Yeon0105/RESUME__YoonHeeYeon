@@ -38,9 +38,9 @@
 
 ---
 
-### 2. [ALLQ 올큐]()
+### 2. [ALLQ 올큐](https://github.com/Yeon0105/ALLQ)
 - 코로나 시국에 좀 더 편리하고 안전하게 비대면으로 대형 매장을 이용하기 위한 서비스    
- QR로 연결되는 웹 페이지로 물건의 위치 검색을 허용하고 위치를 안내하는 반응현 웹
+ QR로 연결되는 웹 페이지로 물건의 위치 검색을 허용하고 위치를 안내하는 반응형 웹
   - 위치 검색
   - 위치 아이콘으로 표시
 - 기술 스택:
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-FF9A00?style=flat-square&logo=MySQL&logoColor=white"/></a>
   
-- [프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+- [프로젝트 상세 설명](https://github.com/Yeon0105/ALLQ) 참고
 
 ---
 

@@ -38,15 +38,17 @@
 
 ---
 
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+### 2. [ALLQ 올큐]()
+-  코로나 시국에 좀 더 편리하고 안전하게 비대면으로 대형 매장을 이용하기 위한 서비스로 QR로 연결되는 웹 페이지로 물건의 위치 검색을 허용하고 위치를 안내하는 반응현 웹
+  - 위치 검색
+  - 위치 아이콘으로 표시
+- 기술 스택:
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MySQL-FF9A00?style=flat-square&logo=MySQL&logoColor=white"/></a>
+  
+-[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
 ---
 

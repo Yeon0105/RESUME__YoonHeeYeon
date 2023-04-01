@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-FF9A00?style=flat-square&logo=MySQL&logoColor=white"/></a>
   
--[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+- [프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
 ---
 

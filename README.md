@@ -76,17 +76,17 @@
 
 ---
 
-### 5. [AR 카드 게임](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking)
+### 5. [AR 카드 게임](https://github.com/Yeon0105/Unity_AR_Project_Card-Game)
 - 카드를 인식 후 기사 두명 중 랜덤으로 한명이 선공하는 게임
 - 기술 스택:
   <img src="https://img.shields.io/badge/C%23-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/></a>
  
-- [프로젝트 상세 설명](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking) 참고
+- [프로젝트 상세 설명](https://github.com/Yeon0105/Unity_AR_Project_Card-Game) 참고
 
 ---
 
-### 6. [fps 총 게임](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking)
+### 6. [fps 총 게임](https://github.com/Yeon0105/)
 - 1인칭으로 총을 이용해 플레이어에게 다가오는 몬스터를 잡아 일정 점수를 획득하는 게임
   - 블루 프린트 사용
 - 기술 스택:

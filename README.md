@@ -63,3 +63,43 @@
   <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/></a>
  
 - [프로젝트 상세 설명](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking) 참고
+
+---
+
+### 4. [화살맞추기 게임](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking)
+- 요리와 관련된 3가지 미니게임을 모두 성공해야만 요리의 신 타이틀을 얻을 수 있는 게임
+  - 햄버거 만들기 게임
+  - 중식 조합 맞추기 게임
+  - 잡채 만들기 게임
+- 기술 스택:
+  <img src="https://img.shields.io/badge/C%23-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/></a>
+ 
+- [프로젝트 상세 설명](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking) 참고
+
+---
+
+### 5. [카드 게임](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking)
+- 요리와 관련된 3가지 미니게임을 모두 성공해야만 요리의 신 타이틀을 얻을 수 있는 게임
+  - 햄버거 만들기 게임
+  - 중식 조합 맞추기 게임
+  - 잡채 만들기 게임
+- 기술 스택:
+  <img src="https://img.shields.io/badge/C%23-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/></a>
+ 
+- [프로젝트 상세 설명](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking) 참고
+
+---
+
+### 6. [fps 총 게임](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking)
+- 요리와 관련된 3가지 미니게임을 모두 성공해야만 요리의 신 타이틀을 얻을 수 있는 게임
+  - 햄버거 만들기 게임
+  - 중식 조합 맞추기 게임
+  - 잡채 만들기 게임
+- 기술 스택:
+  <img src="https://img.shields.io/badge/C%23-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/></a>
+ 
+- [프로젝트 상세 설명](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking) 참고
+

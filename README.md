@@ -58,8 +58,8 @@
   - 햄버거 만들기 게임
   - 중식 조합 맞추기 게임
   - 잡채 만들기 게임
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+- 기술 스택:
+  <img src="https://img.shields.io/badge/C%23-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/></a>
+ 
+- [프로젝트 상세 설명](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking) 참고

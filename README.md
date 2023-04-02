@@ -55,9 +55,9 @@
 
 ### 3. [요리의 신](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking)
 - 요리와 관련된 3가지 미니게임을 모두 성공해야만 요리의 신 타이틀을 얻을 수 있는 게임
-  - 햄버거 만들기
-  - ㅇ
-  - ㅇ
+  - 햄버거 만들기 게임
+  - 중식 조합 맞추기 게임
+  - 잡채 만들기 게임
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  

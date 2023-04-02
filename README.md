@@ -98,7 +98,7 @@
   - 중식 조합 맞추기 게임
   - 잡채 만들기 게임
 - 기술 스택:
-  <img src="https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></
+  <img src="https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
  
 - [프로젝트 상세 설명](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking) 참고
 

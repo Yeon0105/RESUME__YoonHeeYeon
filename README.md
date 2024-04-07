@@ -15,8 +15,8 @@
 
 > ## 📌 Contact 📌
 - 이메일: heeyeon0105@gmail.com
+- 노션: https://www.notion.so/cf04f2a60eec4e018ddfe8a48074ee72?pvs=4
 - 깃헙: https://github.com/Yeon0105
-- 블로그: 추가 예정
 
 </br>
 
@@ -53,43 +53,4 @@
 
 ---
 
-### 3. [요리의 신](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking)
-- 요리와 관련된 3가지 미니게임을 모두 성공해야만 요리의 신 타이틀을 얻을 수 있는 게임
-  - 햄버거 만들기 게임
-  - 중식 조합 맞추기 게임
-  - 잡채 만들기 게임
-- 기술 스택:
-  <img src="https://img.shields.io/badge/C%23-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/></a>
- 
-- [프로젝트 상세 설명](https://github.com/Yeon0105/Unity_Project_the-god-of-cooking) 참고
 
----
-
-### 4. [VR 화살맞추기 게임](https://github.com/Yeon0105/Unity_VR_Project_Arrows-guessing)
-- 화살를 이용해 플레이어에게 다가오는 여우를 잡아 일정 점수를 획득하는 게임
-- 기술 스택:
-  <img src="https://img.shields.io/badge/C%23-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/></a>
- 
-- [프로젝트 상세 설명](https://github.com/Yeon0105/Unity_VR_Project_Arrows-guessing) 참고
-
----
-
-### 5. [AR 카드 게임](https://github.com/Yeon0105/Unity_AR_Project_Card-Game)
-- 카드를 인식 후 기사 두명 중 랜덤으로 한명이 선공하는 게임
-- 기술 스택:
-  <img src="https://img.shields.io/badge/C%23-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Unity-0E1128?style=flat-square&logo=Unity&logoColor=white"/></a>
- 
-- [프로젝트 상세 설명](https://github.com/Yeon0105/Unity_AR_Project_Card-Game) 참고
-
----
-
-### 6. [fps 총 게임](https://github.com/Yeon0105/Unreal-Engine_FPS-a-gun-game)
-- 1인칭으로 총을 이용해 플레이어에게 다가오는 몬스터를 잡아 일정 점수를 획득하는 게임
-  - 블루 프린트 사용
-- 기술 스택:
-  <img src="https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
- 
-- [프로젝트 상세 설명](https://github.com/Yeon0105/Unreal-Engine_FPS-a-gun-game) 참고
